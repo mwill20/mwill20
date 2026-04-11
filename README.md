@@ -20,9 +20,9 @@ Multi-tenant enterprise security operations background across 60+ clients. Curre
 
 ---
 
-## 🎯 Role Personas
+## 🎯 Professional Experience
 
-### 🔵 Persona 1 — Detection & Threat Operations
+### 🔵 Detection & Threat Operations
 > *Targeting: Cybersecurity Analyst · Detection Engineer · Threat Hunter · SOC Engineer (L2/L3)*
 
 My core foundation. Multi-tenant SOC operations across 60+ enterprise clients — building detection logic, running hunts, and automating investigation pipelines at scale.
@@ -37,7 +37,7 @@ My core foundation. Multi-tenant SOC operations across 60+ enterprise clients �
 
 ---
 
-### 🟠 Persona 2 — AI Security & Adversarial ML
+### 🟠 AI Security & Adversarial ML
 > *Targeting: AI Security Engineer · AI Red Team · Adversarial ML · DevSecOps Engineer*
 
 Where my detection background meets the AI threat surface. I build tools that attack, evaluate, and harden AI systems — mapped to real frameworks, not theoretical exercises.
@@ -54,7 +54,7 @@ Where my detection background meets the AI threat surface. I build tools that at
 
 ---
 
-### 🟢 Persona 3 — Technical Customer & Solutions Roles
+### 🟢 Technical Customer & Solutions Roles
 > *Targeting: Customer Success Engineer · Solutions Engineer · Security Architect · Technical Advisor*
 
 I translate complex security and AI infrastructure into actionable guidance — for clients, collaborators, and technical audiences. Demonstrated through 60+ enterprise client engagements and public technical writing.
