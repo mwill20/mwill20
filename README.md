@@ -31,7 +31,7 @@ My core foundation. Multi-tenant SOC operations across 60+ enterprise clients �
 |---------|---------------|
 | [**MultiAgent_SOC**](https://github.com/mwill20/MultiAgent_SOC) | Multi-agent architecture applied to SOC workflows — automated triage, investigation routing, and response orchestration |
 | [**High-Recall_Malware_Detector**](https://github.com/mwill20/High-Recall_Malware_Detector_Supervised_Unsupervised) | Supervised + unsupervised ML for malware classification — precision/recall tradeoffs in detection engineering |
-| [**PurpleLens**](https://github.com/mwill20) | API-driven SOC investigation and threat hunt automation pipeline — built for analyst velocity |
+| [**ThreatPrism**](https://github.com/mwill20/threatprism) | API-driven SOC investigation and threat hunt automation pipeline — built for analyst velocity |
 
 **Skills in this space:** SIEM rule development · Behavioral analytics · Alert fidelity optimization · Hypothesis-driven threat hunting · IOC development · Adversary emulation · Sigma · YARA · KQL · Splunk SPL
 
