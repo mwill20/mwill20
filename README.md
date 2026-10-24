@@ -1,88 +1,70 @@
 # Michael Williams
-### Cybersecurity Analyst · Detection Engineer · AI Security Practitioner
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mwillitmission-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwillitmission/)
-[![AgentLedger](https://img.shields.io/badge/AgentLedger-Docs-1B3A6B?style=flat)](https://mwillaimission.mintlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-mwill20-24292e?style=flat&logo=github)](https://github.com/mwill20)
+**Cybersecurity Engineer II at SEARHC.** Cybersecurity engineering, AI security, AI and software risk in a healthcare environment. Five years of security operations, and at every hop I stepped into the unknown and built things: solutions, my teams, and myself.
 
-Multi-tenant enterprise security operations background across 60+ clients. Currently building at the intersection of detection engineering, AI security, and autonomous agent infrastructure.
+*Leveraging AI. As it evolves, so do I.*
 
----
+[![Traceroute](cards/route.svg)](https://mwill20.github.io/)
 
-## 🔭 Current Focus
+### → [Follow the evidence: the full traceroute at mwill20.github.io](https://mwill20.github.io/)
 
-### [AgentLedger](https://mwillaimission.mintlify.app) — Trust & Discovery Infrastructure for the Autonomous Agent Web
-
-> 104,000+ AI agents registered across 15+ incompatible registries. No shared trust layer exists. AgentLedger fills that gap: a universal capability ontology, blockchain-anchored Trust Ledger, and tamper-proof Audit Chain for autonomous agent commerce.
-
-[![Docs](https://img.shields.io/badge/Docs-mwillaimission.mintlify.app-1B3A6B?style=flat)](https://mwillaimission.mintlify.app)
-[![Repo](https://img.shields.io/badge/Repo-AgentLedger-24292e?style=flat&logo=github)](https://github.com/mwill20/AgentLedger)
+Seattle, WA · GCIH · GCIA · GSEC · SecurityX · CAISS · MLSecOps · UT Austin McCombs AI/ML
+[LinkedIn](https://www.linkedin.com/in/mwillitmission/) · [Project catalog](https://mwill20.github.io/ai-security-portfolio/) · [AgentLedger docs](https://mwillaimission.mintlify.app) · mwill.itmission@gmail.com
 
 ---
 
-## 🎯 Professional Experience
+## The route
 
-### 🔵 Detection & Threat Operations
-> *Targeting: Cybersecurity Analyst · Detection Engineer · Threat Hunter · SOC Engineer (L2/L3)*
+```mermaid
+flowchart LR
+    H1["2020<br/>First responder<br/>COVID response, HIPAA data"]
+    H2["2023<br/>Student<br/>B.A.S., SANS scholarship, 17 certs"]
+    H3["2023<br/>Director<br/>built a SOC, led 30"]
+    H4["2024<br/>Analyst II, MSSP<br/>3,000 endpoints, 60 clients"]
+    H5["2025<br/>AI security<br/>red team, guardrails, fine-tuning"]
+    H6["2026<br/>Engineer II, healthcare<br/>greenfield program, AI risk lead"]
+    H7(["Standing orders"])
+    H1 --> H2 --> H3 --> H4 --> H5 --> H6 --> H7
+    H3 -. "looped back to fill the gaps" .-> H4
+    TP["ThreatPrism · 48% MTTR"] -.- H4
+    AD["AI-DevSecOps · 57 cases, 0 FN"] -.- H5
+    AL["AgentLedger · trust layer for agents"] -.- H6
+```
 
-My core foundation. Multi-tenant SOC operations across 60+ enterprise clients — building detection logic, running hunts, and automating investigation pipelines at scale.
+Student → director → analyst → engineer. I almost started at the finish line, then looped back to fill the gaps. As AI evolved, so did I: none, curiosity, study, adversarial, production.
 
-| Project | What It Proves |
-|---------|---------------|
-| [**MultiAgent_SOC**](https://github.com/mwill20/MultiAgent_SOC) | Multi-agent architecture applied to SOC workflows — automated triage, investigation routing, and response orchestration |
-| [**High-Recall_Malware_Detector**](https://github.com/mwill20/High-Recall_Malware_Detector_Supervised_Unsupervised) | Supervised + unsupervised ML for malware classification — precision/recall tradeoffs in detection engineering |
-| [**ThreatPrism**](https://github.com/mwill20/threatprism) | API-driven SOC investigation and threat hunt automation pipeline — built for analyst velocity |
+## Now
 
-**Skills in this space:** SIEM rule development · Behavioral analytics · Alert fidelity optimization · Hypothesis-driven threat hunting · IOC development · Adversary emulation · Sigma · YARA · KQL · Splunk SPL
+Repositories pushed in the last 30 days. Rewritten nightly from the GitHub API, so this section cannot go stale.
 
----
+![Now](cards/now.svg)
 
-### 🟠 AI Security & Adversarial ML
-> *Targeting: AI Security Engineer · AI Red Team · Adversarial ML · DevSecOps Engineer*
+## Repo security posture
 
-Where my detection background meets the AI threat surface. I build tools that attack, evaluate, and harden AI systems — mapped to real frameworks, not theoretical exercises.
+Every featured repo, checked nightly for `SECURITY.md`, a tests directory, and a CI workflow. Gaps are shown on purpose; the scorecard is the backlog.
 
-| Project | What It Proves |
-|---------|---------------|
-| [**LLM-Red-Teaming-Audit-Demo**](https://github.com/mwill20/LLM-Red-Teaming-Audit-Demo) | Structured LLM red team evaluation with audit trail — adversarial prompt testing mapped to OWASP LLM Top 10 |
-| [**Trust-Bench-SecureEval-Ops**](https://github.com/mwill20/Trust-Bench-SecureEval-Ops) | Benchmarking framework for AI trust and security evaluation — behavioral consistency testing at scale |
-| [**ai-guardrails**](https://github.com/mwill20/ai-guardrails) | Production guardrail implementations for LLM-based systems — input/output validation and policy enforcement |
-| [**SecureCLI-Tuner**](https://github.com/mwill20) | QLoRA fine-tuning pipeline for hardened NL → CLI translation — reduces command injection surface in agentic workflows |
-| [**AI DevSecOps Platform**](https://github.com/mwill20) | End-to-end adversarial testing framework for AI systems — OWASP LLM Top 10 and MITRE ATLAS alignment |
+![Repo security posture](cards/posture.svg)
 
-**Skills in this space:** LLM threat modeling · Prompt injection defense · Agentic attack surface analysis · Adversarial ML · OWASP LLM Top 10 · MITRE ATLAS · NIST AI RMF · Fine-tuning pipelines · AI governance
+## Three lanes, one direction
 
----
+| Lane | What it proves | Repos |
+|---|---|---|
+| **Detection and threat operations** | Detections, hunts, investigation automation at MSSP scale | [threatprism](https://github.com/mwill20/threatprism) · [MalVec](https://github.com/mwill20/MalVec) · [KC7-SecOps](https://github.com/mwill20/KC7-SecOps) · [MultiAgent_SOC](https://github.com/mwill20/MultiAgent_SOC) |
+| **AI security and adversarial ML** | Attack, evaluate, and harden AI systems against real frameworks | [AI-DevSecOps](https://github.com/mwill20/AI-DevSecOps) · [LLM-Red-Teaming-Audit-Demo](https://github.com/mwill20/LLM-Red-Teaming-Audit-Demo) · [ai-guardrails](https://github.com/mwill20/ai-guardrails) · [SecureCLI-Tuner](https://github.com/mwill20/SecureCLI-Tuner) |
+| **Agent security and AI risk** | Agentic systems built around the attack surface; AI risk assessment in healthcare | [AgentLedger](https://github.com/mwill20/AgentLedger) · [adk-expense-approval-agent](https://github.com/mwill20/adk-expense-approval-agent) · [ClawGuard](https://github.com/mwill20/ClawGuard) · [agent-config-sync](https://github.com/mwill20/agent-config-sync-public) |
 
-### 🟢 Technical Customer & Solutions Roles
-> *Targeting: Customer Success Engineer · Solutions Engineer · Security Architect · Technical Advisor*
+## Standing orders
 
-I translate complex security and AI infrastructure into actionable guidance — for clients, collaborators, and technical audiences. Demonstrated through 60+ enterprise client engagements and public technical writing.
-
-| Project | What It Proves |
-|---------|---------------|
-| [**AgentLedger**](https://mwillaimission.mintlify.app) | Whitepaper authorship, full technical docs site, architecture spec — communicating complex infrastructure clearly to multiple audiences |
-| [**SageVault**](https://github.com/mwill20/SageVault) | Secure data architecture and vault implementation — translating security requirements into working systems |
-| [**Trust-Bench-SecureEval-Ops**](https://github.com/mwill20/Trust-Bench-SecureEval-Ops) | Evaluation framework designed to surface security posture clearly — built for decision-making, not just testing |
-
-**Skills in this space:** Client-facing security advisory · Technical documentation · Architecture specification · Stakeholder communication · Security posture translation · Whitepaper authorship · Enterprise onboarding
-
----
-
-## 🔧 Framework Alignment
-
-| Domain | Frameworks & Standards |
-|--------|----------------------|
-| Threat Modeling | MITRE ATT&CK · MITRE ATLAS · STRIDE |
-| AI Security | OWASP LLM Top 10 · CoSAI MCP Security Taxonomy · NIST AI RMF |
-| Agent Protocols | MCP · A2A · agents.txt · AgentLedger Manifest Spec |
-| Compliance | EU AI Act · SOC 2 · GDPR · CCPA |
-| Detection | Sigma · YARA · KQL · Splunk SPL |
+1. Everything is **untrusted** until proven otherwise.
+2. Guardrails are **engineering**, not an afterthought.
+3. Findings trace to **evidence**, or they are not findings.
 
 ---
 
-## 📡 Connect
+<sub>This profile is tamper-evident. Each nightly render appends a SHA-256 hash-chained entry to <a href="ledger.jsonl">ledger.jsonl</a>.</sub>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mwillitmission-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mwillitmission/)
-[![AgentLedger Docs](https://img.shields.io/badge/AgentLedger-mwillaimission.mintlify.app-1B3A6B?style=flat)](https://mwillaimission.mintlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-mwill20-24292e?style=flat&logo=github)](https://github.com/mwill20)
+<!-- ledger:start -->
+`profile build #1` · `2026-10-24` · prev `sha256:0000…0000` · this `sha256:19f2…40e9` · verify with `python scripts/verify_ledger.py`
+<!-- ledger:end -->
+
+<sub>Cards are rendered by <a href=".github/workflows/cards.yml">a GitHub Action</a> from <a href="scripts/render_cards.py">standard-library Python</a>, hosted in this repo, with no third-party widgets. See <a href="SECURITY.md">SECURITY.md</a>.</sub>

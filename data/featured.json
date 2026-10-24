@@ -1,0 +1,19 @@
+{
+  "owner": "mwill20",
+  "now_exclude": ["mwill20"],
+  "note": "Repos shown on the posture scorecard, in display order. Gaps are shown on purpose; the scorecard is the backlog.",
+  "repos": [
+    "AgentLedger",
+    "threatprism",
+    "MalVec",
+    "KC7-SecOps",
+    "AI-DevSecOps",
+    "SecureCLI-Tuner",
+    "LLM-Red-Teaming-Audit-Demo",
+    "ai-guardrails",
+    "adk-expense-approval-agent",
+    "ClawGuard",
+    "MultiAgent_SOC",
+    "mwill20.github.io"
+  ]
+}
