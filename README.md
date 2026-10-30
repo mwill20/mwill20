@@ -64,7 +64,7 @@ Every featured repo, checked nightly for `SECURITY.md`, a tests directory, and a
 <sub>This profile is tamper-evident. Each nightly render appends a SHA-256 hash-chained entry to <a href="ledger.jsonl">ledger.jsonl</a>.</sub>
 
 <!-- ledger:start -->
-`profile build #4` · `2026-10-27` · prev `sha256:b4dd…e767` · this `sha256:784f…7055` · verify with `python scripts/verify_ledger.py`
+`profile build #5` · `2026-10-30` · prev `sha256:784f…7055` · this `sha256:3cf2…a3de` · verify with `python scripts/verify_ledger.py`
 <!-- ledger:end -->
 
 <sub>Cards are rendered by <a href=".github/workflows/cards.yml">a GitHub Action</a> from <a href="scripts/render_cards.py">standard-library Python</a>, hosted in this repo, with no third-party widgets. See <a href="SECURITY.md">SECURITY.md</a>.</sub>
